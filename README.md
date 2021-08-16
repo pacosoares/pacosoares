@@ -1,7 +1,7 @@
 ### 👍Hello, I´m Pascoal Soares!
 
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/pacosoares">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pacosoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacosoares&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -13,19 +13,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="PacoSoares" src="https://www.canva.com/design/DAEnN01psLI/65WW_5vA_YzJwY_KK7JzbA/watch?  utm_content=DAEnN01psLI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
-</div>
-  
-  ##
+  <!--img align="right" alt="PacoSoares" src="https://github.com/pacosoares/pacosoares/blob/main/%7B%20Paco%20soares%20%7D.png"  height="10%" width="10%-->
+</div><br>
  
 <div> 
-  <!--a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a-->
-  <!--a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a-->
- 	<!--a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a-->
- <!--a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a--> 
-  <a href = "mailto:services.paco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:services.paco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pascoal-soares-0b2a2635" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  
  
  
 </div>
