@@ -5,7 +5,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pacosoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacosoares&layout=compact&langs_count=7&theme=dracula"/>
  </div>
-  <div><br>
+  <div>
     <img align="center" title="Paco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" title="Paco-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-original.svg">
     <img align="center" title="Paco-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg">
