@@ -15,7 +15,9 @@
     <img align="center" title="Paco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" title="Paco-Msql" height="30" width="40" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-original.svg">
    <img align="center" title="Paco-Laravel" height="30" width="40" src ="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/laravel/laravel-plain.svg">
+    <img align="center" title="Paco-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line-wordmark.svg">
    <img align="center" title="Paco-CodeIgniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/codeigniter/codeigniter-plain.svg">
+    <img align="center" title="Paco-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
      <img align="center" title="Paco-Ubuntu" height="30" width="40" src ="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/ubuntu/ubuntu-plain.svg">
     <!--img align="right" alt="PacoSoares" src="https://github.com/pacosoares/pacosoares/blob/main/%7B%20Paco%20soares%20%7D.png"  height="10%" width="10%-->
  </div>
